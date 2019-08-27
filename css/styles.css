@@ -1,0 +1,23 @@
+body {
+    background-color: ghostwhite;
+}
+h1 {
+    color: deepskyblue;
+}
+button{
+    color: dodgerblue;
+    background: transparent;
+    border: 2px solid dodgerblue;
+    border-radius: 6px;
+    
+}
+a{
+    color: dodgerblue;
+    border: 2px solid dodgerblue;
+    background: transparent;
+    border-radius: 6px;
+}
+table,th,td {
+    border: 1px solid black;
+}
+
